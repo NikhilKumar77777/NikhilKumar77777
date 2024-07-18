@@ -41,9 +41,7 @@
 </div>
 
 <div align="center">
-    <div style="margin-top: 25px">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilKumar77777&" alt="NikhilKumar77777" />
-    </div>
 </div>
 
 - ⚡ Fun fact: Did you know? The very first commit on GitHub was made by its co-founder, Tom Preston-Werner, on October 19, 2007. It was a simple commit message that said, "initial commit."
