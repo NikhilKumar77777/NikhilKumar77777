@@ -23,25 +23,32 @@
 
 - ⚡ Fun fact **Did you know? The very first commit on GitHub was made by its co-founder, Tom Preston-Werner, on October 19, 2007. It was a simple commit message that said, "initial commit."**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">Connect with me:</h2>
+<div align="center">
 <a href="https://twitter.com/@nikhils0538499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nikhils0538499" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikhil kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil kumar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25370036/nikhil-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25370036/nikhil-kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/@nikkk_7777777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@nikkk_7777777" height="30" width="40" /></a>
 <a href="https://medium.com/@nikhilk.appincuba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nikhilk.appincuba" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nikhilk_appincu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhilk_appincu1" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
+</div><br>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,c,java,mysql,postman" /><br>
 </div>
-
+<h2 align="center">⚡Github Streak Stats⚡</h2>
+<br>
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilKumar77777&" alt="NikhilKumar77777" />
+</div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/toshakparmar/toshakparmar/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
 - ⚡ Fun fact: Did you know? The very first commit on GitHub was made by its co-founder, Tom Preston-Werner, on October 19, 2007. It was a simple commit message that said, "initial commit."
