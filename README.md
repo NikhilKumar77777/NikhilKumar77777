@@ -38,6 +38,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NikhilKumarWeb27&show_icons=true&locale=en&layout=compact" alt="NikhilKumarWeb27" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilKumarWeb27&" alt="NikhilKumarWeb27" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilKumarWeb27" alt="NikhilKumarWeb27" /></p>
 
 - ⚡ Fun fact: Did you know? The very first commit on GitHub was made by its co-founder, Tom Preston-Werner, on October 19, 2007. It was a simple commit message that said, "initial commit."
