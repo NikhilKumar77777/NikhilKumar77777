@@ -40,7 +40,9 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,c,java,mysql" /><br>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilKumarWeb27&" alt="NikhilKumarWeb27" /></p>
+<div align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilKumarWeb27&" alt="NikhilKumarWeb27" />
+</div>
 
 
 
