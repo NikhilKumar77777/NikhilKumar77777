@@ -40,7 +40,10 @@
 <h2 align="center">⚡Github Streak Stats⚡</h2>
 <br>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilKumar77777&" alt="NikhilKumar77777" />
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilkumar77777&show_icons=true&locale=en&layout=compact" alt="nikhilkumar77777" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkumar77777&" alt="nikhilkumar77777" /></p>
+
 </div>
 
 <div align="center">
